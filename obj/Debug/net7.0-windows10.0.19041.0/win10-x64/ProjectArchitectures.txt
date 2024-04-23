@@ -1,0 +1,1 @@
+C:\Users\benia\Desktop\Kolekcja_BS\CollectionManager.csproj;x64
